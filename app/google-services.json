@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028291058407",
+    "firebase_url": "https://slipintothe.firebaseio.com",
+    "project_id": "slipintothe",
+    "storage_bucket": "slipintothe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028291058407:android:baf01b51536d98b361a042",
+        "android_client_info": {
+          "package_name": "com.icandothisallday2020.ex84firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028291058407-rbr2d0n8vfbrav5such2ptca2pp2blci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNH0upmsIQKjvx207GJK8kX8Utwd-Wpr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028291058407-rbr2d0n8vfbrav5such2ptca2pp2blci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
